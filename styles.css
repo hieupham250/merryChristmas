@@ -9,7 +9,7 @@
 
 body {
   font-family: Arial, sans-serif;
-  background-image: url("https://www.trungtamtinhoc.edu.vn/wp-content/uploads/sites/2/2014/12/2011_merry_chirstmas-wide.jpg");
+  background-image: url("/img/bg-noel.jpg");
   background-size: cover;
   background-position: center center;
   background-attachment: fixed;
@@ -28,6 +28,12 @@ body {
   body {
     overflow: hidden;
     height: 100%;
+  }
+
+  .close-btn {
+    position: absolute !important;
+    top: 10px !important;
+    right: 10px !important;
   }
 }
 
@@ -181,7 +187,7 @@ body {
 .close-btn {
   position: fixed;
   top: 0;
-  right: 0;
+  right: 395px;
   font-size: 24px;
   background-color: transparent;
   border: none;
