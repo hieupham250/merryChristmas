@@ -35,6 +35,13 @@ body {
     top: 10px !important;
     right: 10px !important;
   }
+
+  .card .details p {
+    font-size: 12px;
+    line-height: 12px;
+    transform: rotate(-10deg);
+    padding: 0 0 0 20px;
+  }
 }
 
 .christmas-message {
