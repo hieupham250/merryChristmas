@@ -9,7 +9,7 @@
 
 body {
   font-family: Arial, sans-serif;
-  background-image: url("/img/bg-noel.jpg");
+  background-image: url("./img/bg-noel.jpg");
   background-size: cover;
   background-position: center center;
   background-attachment: fixed;
