@@ -37,10 +37,8 @@ body {
   }
 
   .card .details p {
-    font-size: 12px;
-    line-height: 12px;
-    transform: rotate(-10deg);
-    padding: 0 0 0 20px;
+    font-size: 12px !important;
+    line-height: 12px !important;
   }
 }
 
